@@ -1,0 +1,16 @@
+.wrapper {
+  width: 300px;
+}
+.my_body{
+  background: rgb(237, 237, 237);
+}
+#posts {
+  list-style: none  ;
+}
+#posts li {
+  background: rgb(237, 237, 237);
+  padding: 3px;
+}
+#posts .new-post {
+  background: rgb(180, 100, 100);
+}

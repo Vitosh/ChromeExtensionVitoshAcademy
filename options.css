@@ -1,0 +1,11 @@
+.wrapper {
+  display: block;
+  min-width: 100px;
+  max-width: 600px;
+  margin: 100px;
+}
+
+#notify {
+  text-align: center;
+  font-weight: bold;
+}
